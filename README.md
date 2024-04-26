@@ -13,6 +13,7 @@ Generating a certificate was simple but implementing the certificate to generate
 I ran the application multiple times for the changes I implemented and ran a test to make sure my code was correct. after I tested my code, I ran a dependency check again and compared it with the first dependency check ( before refactoring) and I verified that I did not introduce any new vulnerabilities.
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+OWASP top 10, Course resources, and java practice.
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show your future employers from this assignment?
 This assignment showcases my ability to produce an effective and clean code while maintaining system security.
